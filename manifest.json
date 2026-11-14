@@ -1,0 +1,11 @@
+{
+  "name": "Mahder PharmaLearn",
+  "short_name": "Mahder",
+  "description": "Pharmacology learning app",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#075e54",
+  "orientation": "portrait"
+}
